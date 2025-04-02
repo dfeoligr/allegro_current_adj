@@ -1,0 +1,1 @@
+This bit of code corresponds to a current adjustment simulator in order to get data for binning current-measuring Integrated Circuits. It consists of a small example of hoy Pyhton scripting allows for automated testing.
