@@ -3,8 +3,6 @@
 Autora: Daniela Feoli Grant
 Creación: 09.01.2024
 
-El siguiente código corresponde al problema a resolver para la entrevista técnica de 
-Allegro Microsystems para el puesto de Test Engineer.
 Clase llamada AlegroIC que simula la funcionalidad de los IC de Allegro para ajustar
 la corriente mediante el método adjust_I.
 
